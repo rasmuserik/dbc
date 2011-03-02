@@ -9,3 +9,5 @@ Various public @work notes and development, not yet tied to any particular proje
 - also published via github: https://github.com/rasmuserik/dbc
 
 Notes about mobile frameworks, in relation to the discussion at HMDC11 is also put up here.
+
+See also [mLibraries.org](http://mLibraries.org).
